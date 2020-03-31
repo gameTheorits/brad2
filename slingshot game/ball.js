@@ -20,7 +20,7 @@ class Ball {
       rectMode(CENTER);
       strokeWeight(4);
       stroke("cyan");
-      fill(80,168,120);
+      fill(20,20,20);
       rect(0, 0, this.width, this.height);
       pop();
     }

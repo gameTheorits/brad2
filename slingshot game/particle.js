@@ -14,7 +14,7 @@ class Particle {
       strokeWeight(4);
       stroke(0,124,142);
       ellipseMode(CENTER);
-      fill(70,2,107);
+      fill(0);
     ellipse(pos.x, pos.y, this.r);
     }
   };
